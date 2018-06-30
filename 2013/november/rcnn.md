@@ -1,6 +1,6 @@
 # [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 
-Tags: object_detection, semantic_segmentation
+Tags: task.object_detection, task.semantic_segmentation
 
 - The authors are motivated to create a simple and scalable detection algorithm, in comparison to previous best-performing methods that are complex ensemble systems.
 - Their approach combines two key insights:

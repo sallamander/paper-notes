@@ -1,6 +1,6 @@
 # [Fast R-CNN](https://arxiv.org/abs/1504.08083)
 
-Tags: object_detection
+Tags: task.object_detection
 
 - The authors are motivated to address some of the limitations of R-CNN and SPPnet while at the same time improving detection performance
     - Notable disadvantages of R-CNN include:
