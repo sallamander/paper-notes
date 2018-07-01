@@ -22,3 +22,7 @@ Tags: task.object_classification, task.object_localization, task.object_detectio
 - They test their approach on ILSVRC
     - For classification, they ranked 5th
     - For localization and detection, they set new SOTA
+
+## Subsampling at offsets
+
+<img src="./images/subsampling_at_offsets.png" height=300, width=500>
