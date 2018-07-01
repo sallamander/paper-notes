@@ -9,7 +9,7 @@ Tags: task.semantic_segmentation
     2. Converting all fully connected layers into convolutions
     3. Adding a 1x1 convolutional layer with $n$ filters, where $n$ is the number of output classes
     4. Adding a de-convolution layer to bi-linearly upsample the coarse predictions to dense pixel-wise output predictions.
-- They test on PASCAL VOC, NYUDv2, and SIFT Flow, and achieve SOA on each
+- They test on PASCAL VOC, NYUDv2, and SIFT Flow, and achieve SOTA on each
     - SIFT Flow contains two tasks (semantic categories and geometric categories), and they find that their FCN with two heads performs as well on both tasks as two independently trained models
     - They find that inference is 5 - 25x faster (5x assumes efficient batching of input images, 25x was for a single image)
     - They train using a per-pixel multinomial logistic loss
@@ -22,3 +22,12 @@ Tags: task.semantic_segmentation
             - They found that performance gains started to stagnate at FCN-8, and thus did not continue on to trying another network
   - They found class balancing to be unncessary
   - To try to match the extra variation (that might lead to faster convergence) that is achieved when randomly sampling patches, they perform some runs using spatial sampling on the loss (i.e. by randomly sampling the the final layer cell at some points), but find that this does not have a significant effect on convergence rate
+
+## FCN Architecture
+<img src="./images/fcn_architecture.png" height=300, width=500>
+
+## FCN Results
+
+<img src="./images/fcn_results.png" height=400, width=350>
+
+
