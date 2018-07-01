@@ -17,3 +17,7 @@ Tags: task.semantic_segmentation, domain.medical
     - They use heavy amounts of data augmentation
     - They outperform all other methods on the Warping Error for the EM segmentation challenge and perform reasonably well (although worse than other methods) for the other metrics
     - They significantly outperform other methods in terms of IOU with respect to the ISBI 2014-2015 challenge
+
+## U-Net
+
+<img src="./images/unet.png" width=500 height=400>
