@@ -17,3 +17,15 @@ Tags: task.semantic_segmentation
 - They perform experiments on PASCAL VOC 2012, and obtain significantly better results than FCNs.
     - Using a CRF on top of the DeconvNet improves results by ~1.5%.
     - In ensembling their approach with an FCN and using a CRF on top, they achieve SOTA. They reason that their approach is better at capturing finer details, while FCN is better at capturing global shape.
+
+## Deconvolution Network Architecture
+
+<img src="./images/deconv_architecture.png" width=700 height=300>
+
+## Unpooling and Deconvolution Operations
+
+<img src="./images/unpooling_deconv.png" width=300 height=300>
+
+## Deconvolution Network Results
+
+<img src="./images/deconv_results.png" width=500 height=450>
