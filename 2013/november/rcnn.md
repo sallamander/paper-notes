@@ -24,3 +24,6 @@ Tags: task.object_detection, task.semantic_segmentation
 - In performing ablation experiments and visualizing modes of error, they find that a significant portion of errors were localization errors. To reduce these, they train a bounding-box linear regression model that predicts a new detection window given the pooled features for a selective search region.
     - It effectively predicts the center point (x, y) of the ground truth bounding box as well as the width and height.
 
+## RCNN
+
+<img src="./images/rcnn.png" height=300 width=650>
