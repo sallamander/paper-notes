@@ -30,3 +30,7 @@ Tags: task.object_detection
     - Softmax slightly outperforms SVM with their setup
     - More proposals doesn't necessarily help; if you swamp the classifier with proposals, it can hurt the end accuracy (mAP), even if the recall of the proposals significantly improves.
         - "Sparse object proposals appear to improve detector quality."
+
+## Fast R-CNN
+
+<img src="./images/fast_rcnn.png" height=300, width=500>
