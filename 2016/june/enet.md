@@ -20,3 +20,9 @@ Tags: task.semantic_segmentation, domain.mobile, topic.efficiency
 - They tested on CamVid, Cityscapes, and SUN RGB-D datasets against a SegNet baseline.
     - Their network was significantly faster and used much less memory.
     - ENet generally performed better (with most IoU metrics - class, class instance-level, category, and category instance-level) on Cityscapes, in 6 / 11 classes on CamVid (and on overall class avg. but not on class IoU), and worse on SUN RGB-D on all metrics
+
+## ENet modules
+
+<img src="./images/enet_modules.png" height=300 width=450>
+
+ENet initial block (a) and bottleneck module (b).
