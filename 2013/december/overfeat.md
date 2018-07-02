@@ -1,5 +1,6 @@
 # [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/abs/1312.6229)
 
+Date: 12/21/2013
 Tags: task.object_classification, task.object_localization, task.object_detection
 
 - The authors are motivated to develop an integrated method for simultaneous classification, location, and detection of objects in images, as well as suggest a novelty in localization and detection where predicted bounding boxes are accumulated, rather than suppressed

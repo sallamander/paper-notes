@@ -1,5 +1,6 @@
 # [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
 
+Date: 11/21/2017
 Tags: task.video_classification, task.object_detection, task.instance_segmentation, task.keypoint_detection, topic.non_local_neural_networks
 
 - The authors are motivated to develop something that will better capture long-range dependencies than current methods (e.g. recurrent operations in LSTMs or convolutional + max pooling operations with a wide receptive field)

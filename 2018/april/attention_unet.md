@@ -1,5 +1,6 @@
 # [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999)
 
+Date: 4/11/2018
 Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision, topic.soft_attention
 
 - Their major goal / motivation is be able to avoid the multi-scale / hierarchical / complex networks that are typically cooked up for segmentation tasks to capture objects at different scales

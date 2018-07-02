@@ -1,5 +1,6 @@
 # [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](https://arxiv.org/abs/1806.05569)
 
+Date: 06/14/2018
 Tags: task.cardiac_motion_scoring, domain.medical, topic.non_local_neural_networks
 
 - The authors are motivated to create an automated method for motion scoring of the cardiac myocardium; they aim to generate actual motion scores (normal, hpyokinetic, akinetic, or dyskinetic), whereas all previous work has simply performed binary classification for whether motion was abnormal or not

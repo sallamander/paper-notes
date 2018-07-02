@@ -1,5 +1,6 @@
 # [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ](https://arxiv.org/abs/1506.01497)
 
+Date: 06/04/2015
 Tags: task.object_detection
 
 - The authors are motivated to address the computational bottleneck in many object detection pipelines, the regional proposal stage
