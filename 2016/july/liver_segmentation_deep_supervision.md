@@ -16,3 +16,7 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
     - Performance increases were not as large when using a 3D CRF on top of the output layer predictions
     - Similar improvements on the test set over existing methods on *some metrics*, but similarly worse performance on other metrics on the test set compared to existing methods
 - This paper was after UNet, so it's unclear why they didn't use that as a baseline, but that would have been nice.
+
+## Deep Supervision
+
+<img src="./images/liver_segmentation_deep_supervision.png" width=600 height=500>
