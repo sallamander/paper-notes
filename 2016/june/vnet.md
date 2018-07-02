@@ -18,3 +18,12 @@ Tags: task.semantic_segmentation, domain.medical
     - They don't outperform other methods, although they rank fairly high (and their performance is close to other methods), but they perform inference in 1 second (but don't talk about how fast inference for other methods is)
     - They claim that the skip connections improve the accuracy and convergence time of the model, but don't offer any evidence to support that
     - They also claim that the residual connections improve the convergence time of the model, but don't offer any evidence to support it
+
+
+## VNet
+
+<img src="./images/vnet_architecture.png" wdith=400 height=400>
+
+## Weighted Cross-Entropy Versus Dice
+
+<img src="./images/vnet_results.png" width=500 height=250>
