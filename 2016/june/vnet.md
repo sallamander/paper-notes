@@ -1,6 +1,6 @@
 # [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
 
-Date: 06/15/2016
+Date: 06/15/2016  
 Tags: task.semantic_segmentation, domain.medical
 
 - The authors are motivated to use 3D fully convolutional networks for medical image segmentation, since medical imaging often consists of 3D images

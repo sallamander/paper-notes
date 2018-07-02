@@ -1,6 +1,6 @@
 # [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
-Date: 05/18/2015
+Date: 05/18/2015  
 Tags: task.semantic_segmentation, domain.medical
 
 - The authors are motivated to overcome the two major drawbacks of patch-based approaches for semantic segmentation

@@ -1,6 +1,6 @@
 # [Deeply-Supervised CNN for Prostate Segmentation](https://arxiv.org/abs/1703.07523)
 
-Date: 03/22/2017
+Date: 03/22/2017  
 Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 - Motivated to try to tackle the lack of clear boundary for prostate segmentation (specifically at apex and base), as well as the huge amount of variation in shape and texture between images from different patients

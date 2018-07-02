@@ -1,6 +1,6 @@
 # [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) 
 
-Date: 06/07/2016
+Date: 06/07/2016  
 Tags: task.semantic_segmentation, domain.mobile, topic.efficiency
 
 - The authors were motivated to find a segmentation network architecture that had good performance but also could operate in real time on low-power devices (e.g. mobile). Current networks do not operate well on low-power devices without some kind of pruning.

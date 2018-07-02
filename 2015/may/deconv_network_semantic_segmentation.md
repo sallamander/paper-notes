@@ -1,6 +1,6 @@
 # [Learning deconvolution network for semantic segmentation](https://arxiv.org/abs/1505.04366)  
 
-Date: 05/17/2015
+Date: 05/17/2015  
 Tags: task.semantic_segmentation
 
 - The authors are motivated to address two of the main limitations of fully convolutional networks:

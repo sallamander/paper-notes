@@ -1,6 +1,6 @@
 # [3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes](https://arxiv.org/abs/1607.00582)
 
-Date: 07/03/2016
+Date: 07/03/2016  
 Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 - Motivated to build an automated way of segmenting whole liver in CT without using hand-crafted features (i.e. shape priors) and while taking into account 3D 

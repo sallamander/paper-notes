@@ -1,6 +1,6 @@
 # [Deeply Supervised Nets](https://arxiv.org/abs/1409.5185)
 
-Date: 09/18/2014
+Date: 09/18/2014  
 Tags: task.object_classification, topic.deep_supervision
 
 - They are motivated by two different things:

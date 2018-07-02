@@ -1,6 +1,6 @@
 # [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
 
-Date: 11/14/2014
+Date: 11/14/2014  
 Tags: task.semantic_segmentation
 
 - The authors provide a novel way of performing more efficient and accurate semantic segmentation by using fully convolutional networks, as opposed to more traditional patch based approaches

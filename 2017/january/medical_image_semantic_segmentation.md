@@ -1,6 +1,6 @@
 # [CNN-based Segmentation of Medical Imaging](https://arxiv.org/abs/1701.03056)
 
-Date: 01/11/2017
+Date: 01/11/2017  
 Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 - The authors are motivated to study specific challenges that are present in medical image segmentation (e.g. scarcity of labeled data and class imbalance) and how successfully (or unsuccessfully) different approaches might handle these challenges
