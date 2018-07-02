@@ -9,3 +9,11 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
     - The deeply supervised components of the loss have some weighting to them, but they don't give detail as to how they are originally weighted or how the weights change throughout the process of training (or if they do at all)
     - They used dice loss for their objective
 - They tested on a dataset of prostate segmentations, and found a ~2.5% improvement on the mean dice, and a 0.5% improvement on the median dice
+
+## Segmentation with Deep Supervision
+
+<img src="./images/prostate_segmentation_deep_supervision.png" width=600 height=350>
+
+## Segmentation Results
+
+<img src="./images/prostate_segmentation_results.png" width=500 height=300>
