@@ -82,7 +82,7 @@ def create_main_readme(sections_dict):
 
             for paper_title in sections_dict[section][subsection]:
                 readme_text += paper_title
-                readme_text += '  \r'
+                readme_text += '  \r\n'
             
             # Skip the extra line for the last topic in the README
             if not subsection == TOPIC_OPTIONS[-1]:
