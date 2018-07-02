@@ -12,3 +12,11 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision, topic.
     - They see ~3-4% improvements on dice for some tasks (statistically significant for CT-150 tasks), which is largely due to higher recall
     - For the CT-82 tasks, they did not improve upon SOTA, but many of the SOTA approaches are multi-stage approaches and / or much more intricate (e.g 2D RNN based)
     - They visualize some of the attention maps, which do appear to be focused on the relevant regions of interest
+
+## Attention U-Net
+
+<img src="./images/attention_unet.png" width=700 height=500>
+
+## Additive Attention Gate
+
+<img src="./images/additive_attention_gate.png" width=800 height=400>
