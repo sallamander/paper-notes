@@ -1,6 +1,6 @@
 # [CNN-based Segmentation of Medical Imaging](https://arxiv.org/abs/1701.03056)
 
-Tags: task.semantic_segmentation, domain.medical
+Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 - The authors are motivated to study specific challenges that are present in medical image segmentation (e.g. scarcity of labeled data and class imbalance) and how successfully (or unsuccessfully) different approaches might handle these challenges
     - Very good lit. review in this paper; lots of good references for future reading
@@ -24,3 +24,7 @@ Tags: task.semantic_segmentation, domain.medical
     - They use same padding instead of valid padding (i.e. so that only conv / deconv operations change the size of feature maps)
     - They use PReLU activation functions
     - Convolutions are all 3x3x3, except those used to produce the final segmentation maps as well as those used to reduce the number of feature maps prior to a deconvolution
+
+## Network Architecture
+
+<img src="./images/medical_image_segmentation.png" height=500 width=900>
