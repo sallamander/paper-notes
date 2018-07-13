@@ -8,6 +8,7 @@
   - [Object Detection](#object-detection)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
+  - [Image Captioning](#image-captioning)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Medical](#medical)
@@ -51,6 +52,9 @@
 ## Instance Segmentation
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
+## Image Captioning
+[On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
+
 ## Cardiac Motion Scoring
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
@@ -64,6 +68,7 @@
 [3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes](./2016/july/liver_segmentation_deep_supervision.md)  
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
+[On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
@@ -86,4 +91,5 @@
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
 ## Soft Attention
+[On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  

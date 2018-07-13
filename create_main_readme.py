@@ -23,6 +23,7 @@ TASK_OPTIONS = [
     'object_detection',
     'semantic_segmentation',
     'instance_segmentation',
+    'image_captioning',
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [
