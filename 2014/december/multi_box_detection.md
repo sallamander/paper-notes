@@ -11,7 +11,7 @@ Tags: task.object_detection
         - In large part, they useed Inception style networks
     - To train, they use priors that lie on a regular grid of the image, and have at least 0.5 IoU with a ground truth bounding box; they then regress the priors towards the ground truth
     - They use "hard bootstrapping" to alleviate the case where the network produces a high confidence prediction for a true positive object whose label is missing
-- Through experimentation, they learned:
+- Through experimentation on the ILSVRC2014 detection challenge data set, they learned:
     - Switching from a Zeiler-Fergus style network to an Inception-style network greatly improved quality of the proposals (as gauged by the average precision and max recall of the top-K proposals)
     - Increasing the number of priors from 150 to 800 (where it started to level off) greatly improved performance (again gauged by average precision and max recall of the top-K proposals)
     - Taking multiple crops of the image at multiple scales / locations and combining all of the generated proposals and applying non-maximal suppression greatly improves mean average precision (~10% relative improvement)
