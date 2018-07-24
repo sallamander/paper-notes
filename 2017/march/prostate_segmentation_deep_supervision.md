@@ -13,8 +13,8 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 ## Segmentation with Deep Supervision
 
-<img src="./images/prostate_segmentation_deep_supervision.png" width=600 height=350>
+![](./images/prostate_segmentation_deep_supervision.png)
 
 ## Segmentation Results
 
-<img src="./images/prostate_segmentation_results.png" width=500 height=300>
+![](./images/prostate_segmentation_results.png)

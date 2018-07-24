@@ -17,7 +17,7 @@ Tags: task.object_detection
         - They apply non-maximum suppression to the region proposals to supress proposals with high overlap
         - The loss function is a multi-task loss defined below, where *i* is the index of an anchor in a mini-batch and *p_i* is the predicted probability of anchor *i* being an object. The ground-truth label is 1 if the anchor is positive, and is 0 if the anchor is negative. *t_i* is a vector representing the 4 parameterized coordinates of the predicted bounding box, and *t_i* is that of the ground-truth box associated with a positive anchor. They use log loss for *L_cls* and L1 for *L_reg*, and the regression loss is only activated for positive anchors. The *N_cls* is equal to the mini-batch size and the *N_reg* is equal to the number of anchor locations. Lambda is set such that the terms are roughly equally weighted.  
 
-    <img src="./images/rpn_loss_function.png" width=600 height=70>
+    ![](./images/rpn_loss_function.png)
 
 - The detection network is simply Fast R-CNN
 - They combine the RPN and Fast R-CNN in a way that they share features (i.e. the convolutional layers that generate the set of feature maps used for object proposals and ROI pooling)
@@ -38,7 +38,8 @@ Tags: task.object_detection
 
 ## RPN Network
 
-<image src="./images/rpn_network.png" width=400 height=300>
+![](./images/rpn_network.png)
 
 ## Faster R-CNN
-<image src="./images/faster_rcnn.png" width=400 height=350>
+
+![](./images/faster_rcnn.png)

@@ -20,4 +20,4 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 ## Deep Supervision
 
-<img src="./images/liver_segmentation_deep_supervision.png" width=600 height=500>
+![](./images/liver_segmentation_deep_supervision.png)

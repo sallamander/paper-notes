@@ -13,11 +13,11 @@ Tags: task.video_classification, task.object_detection, task.instance_segmentati
         - They maintain the variable input sizes and can be easily combined with other operations
 - The generic non-local operation is defined as:
 
-    <img src="./images/non_local_operation.png" width="225" height="75">
+    ![](./images/non_local_operation.png)
 
   with the non-local block as:
-  
-    <img src="./images/non_local_block.png" width="225" height="50">
+    
+    ![](./images/non_local_block.png)
   
   where *x_i* is a residual connection, which allows them to insert a non-local block into any pre-trained model without breaking its initial behavior.
   

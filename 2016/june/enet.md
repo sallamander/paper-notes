@@ -24,6 +24,6 @@ Tags: task.semantic_segmentation, domain.mobile, topic.efficiency
 
 ## ENet modules
 
-<img src="./images/enet_modules.png" height=300 width=450>
+![](./images/enet_modules.png)
 
 ENet initial block (a) and bottleneck module (b).

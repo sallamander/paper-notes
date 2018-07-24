@@ -28,4 +28,4 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision
 
 ## Network Architecture
 
-<img src="./images/medical_image_segmentation.png" height=500 width=900>
+![](./images/medical_image_segmentation)

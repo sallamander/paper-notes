@@ -23,8 +23,8 @@ Tags: task.semantic_segmentation, domain.medical
 
 ## VNet
 
-<img src="./images/vnet_architecture.png" wdith=400 height=400>
+![](./images/vnet_architecture)
 
 ## Weighted Cross-Entropy Versus Dice
 
-<img src="./images/vnet_results.png" width=500 height=250>
+![](./images/vnet_results.png)

@@ -34,4 +34,4 @@ Tags: task.object_detection
 
 ## Fast R-CNN
 
-<img src="./images/fast_rcnn.png" height=300, width=500>
+![](./images/fast_rcnn.png)

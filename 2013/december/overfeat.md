@@ -26,4 +26,4 @@ Tags: task.object_classification, task.object_localization, task.object_detectio
 
 ## Subsampling at offsets
 
-<img src="./images/subsampling_at_offsets.png" height=300, width=500>
+![](./images/subsampling_at_offsets.png)

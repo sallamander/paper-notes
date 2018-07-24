@@ -21,4 +21,4 @@ Tags: task.semantic_segmentation, domain.medical
 
 ## U-Net
 
-<img src="./images/unet.png" width=500 height=400>
+![](./images/unet.png)

@@ -25,10 +25,9 @@ Tags: task.semantic_segmentation
   - To try to match the extra variation (that might lead to faster convergence) that is achieved when randomly sampling patches, they perform some runs using spatial sampling on the loss (i.e. by randomly sampling the the final layer cell at some points), but find that this does not have a significant effect on convergence rate
 
 ## FCN Architecture
-<img src="./images/fcn_architecture.png" height=300, width=500>
+
+![](./images/fcn_architecture.png)
 
 ## FCN Results
 
-<img src="./images/fcn_results.png" height=400, width=350>
-
-
+![](./images_fcn_results.png)

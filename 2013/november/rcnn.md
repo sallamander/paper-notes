@@ -27,4 +27,4 @@ Tags: task.object_detection, task.semantic_segmentation
 
 ## RCNN
 
-<img src="./images/rcnn.png" height=300 width=650>
+![](./images/rcnn.png)

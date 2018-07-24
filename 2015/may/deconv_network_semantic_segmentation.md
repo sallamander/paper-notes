@@ -21,12 +21,12 @@ Tags: task.semantic_segmentation
 
 ## Deconvolution Network Architecture
 
-<img src="./images/deconv_architecture.png" width=700 height=300>
+![](./images/deconv_architecture.png)
 
 ## Unpooling and Deconvolution Operations
 
-<img src="./images/unpooling_deconv.png" width=300 height=300>
+![](./images/unpooling_deconv.png)
 
 ## Deconvolution Network Results
 
-<img src="./images/deconv_results.png" width=500 height=450>
+![](./images/deconv_results.png)

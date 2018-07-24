@@ -19,4 +19,4 @@ Tags: task.object_detection, task.instance_segmentation, task.keypoint_detection
 
 ## Mask R-CNN
 
-<img src="./images/mask_rcnn.png" width=600 height=400>
+![](./images/mask_rcnn.png)

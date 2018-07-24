@@ -16,8 +16,8 @@ Tags: task.semantic_segmentation, domain.medical, topic.deep_supervision, topic.
 
 ## Attention U-Net
 
-<img src="./images/attention_unet.png" width=700 height=500>
+![](./images/attention_unet)
 
 ## Additive Attention Gate
 
-<img src="./images/additive_attention_gate.png" width=800 height=400>
+![](./images/additive_attention_gate.png)
