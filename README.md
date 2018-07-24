@@ -33,8 +33,11 @@
 ## Object Detection
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
+[Scalable, High-Quality Object Detection](./2014/december/multi_box_detection.md)  
 [Fast R-CNN](./2015/april/fast_rcnn.md)  
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ](./2015/june/faster_rcnn.md)  
+[You Only Look Once: Unified, Real-Time Object Detection](./2015/june/yolo.md)  
+[Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
 ## Semantic Segmentation
@@ -50,6 +53,7 @@
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 
 ## Instance Segmentation
+[Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
 ## Image Captioning
