@@ -38,6 +38,8 @@
 [Fast R-CNN](./2015/april/fast_rcnn.md)  
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ](./2015/june/faster_rcnn.md)  
 [You Only Look Once: Unified, Real-Time Object Detection](./2015/june/yolo.md)  
+[SSD: Single Shot MultiBox Detector](./2015/december/ssd.md)  
+[HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](./2016/april/hypernet.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
