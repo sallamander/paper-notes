@@ -24,6 +24,7 @@
 # Papers Organized By Task
 
 ## Object Classification
+[ImageNet Classification with Deep Convolutional Neural Networks](./2012/december/alexnet.md)  
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
 
