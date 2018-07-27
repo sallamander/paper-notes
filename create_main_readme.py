@@ -29,6 +29,7 @@ TASK_OPTIONS = [
 TOPIC_OPTIONS = [
     'deep_supervision',
     'efficiency',
+    'loss_functions',
     'non_local_neural_networks',
     'soft_attention'
 ]

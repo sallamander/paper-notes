@@ -15,6 +15,7 @@
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
+  - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Soft Attention](#soft-attention)
 
@@ -43,6 +44,8 @@
 [R-FCN: Object Detection via Region-based Fully Convolutional Networks](./2016/may/rfcn.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
+[DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
+[Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
 ## Semantic Segmentation
@@ -95,6 +98,9 @@
 
 ## Efficiency
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
+
+## Loss Functions
+[Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 
 ## Non Local Neural Networks
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
