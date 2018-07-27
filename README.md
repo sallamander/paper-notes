@@ -40,6 +40,8 @@
 [You Only Look Once: Unified, Real-Time Object Detection](./2015/june/yolo.md)  
 [SSD: Single Shot MultiBox Detector](./2015/december/ssd.md)  
 [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](./2016/april/hypernet.md)  
+[R-FCN: Object Detection via Region-based Fully Convolutional Networks](./2016/may/rfcn.md)  
+[Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
@@ -56,6 +58,7 @@
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 
 ## Instance Segmentation
+[Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
