@@ -1,7 +1,7 @@
 # [ZNET - LUNG NODULE DETECTION](http://luna16.grand-challenge.org/serve/public_html/pdfs/ZNET_NDET_160831.pdf/)
 
 Date: 06/30/2016  
-Tags: task.object_detection, domain.medical
+Tags: task.object_detection, task.object_classification, domain.medical
 
 - The authors are motivated to develop a detection algorithm for lung nodules
 - The authors propose a two stage pipeline:

@@ -29,6 +29,9 @@
 [ImageNet Classification with Deep Convolutional Neural Networks](./2012/december/alexnet.md)  
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
+[Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
+[ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
+[Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
@@ -44,7 +47,6 @@
 [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](./2016/april/hypernet.md)  
 [R-FCN: Object Detection via Region-based Fully Convolutional Networks](./2016/may/rfcn.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
-[Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Speed/accuracy trade-offs for modern convolutional object detectors](./2016/november/modern_object_detectors.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
@@ -81,6 +83,7 @@
 
 ## Medical
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](./2015/may/unet.md)  
+[Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](./2016/june/vnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes](./2016/july/liver_segmentation_deep_supervision.md)  
