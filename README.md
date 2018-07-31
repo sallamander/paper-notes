@@ -18,6 +18,7 @@
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Soft Attention](#soft-attention)
+  - [Survey Papers](#survey-papers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -42,6 +43,7 @@
 [SSD: Single Shot MultiBox Detector](./2015/december/ssd.md)  
 [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](./2016/april/hypernet.md)  
 [R-FCN: Object Detection via Region-based Fully Convolutional Networks](./2016/may/rfcn.md)  
+[Speed/accuracy trade-offs for modern convolutional object detectors](./2016/november/modern_object_detectors.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
@@ -109,3 +111,6 @@
 ## Soft Attention
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
+
+## Survey Papers
+[Speed/accuracy trade-offs for modern convolutional object detectors](./2016/november/modern_object_detectors.md)  

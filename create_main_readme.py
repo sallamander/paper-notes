@@ -31,7 +31,8 @@ TOPIC_OPTIONS = [
     'efficiency',
     'loss_functions',
     'non_local_neural_networks',
-    'soft_attention'
+    'soft_attention',
+    'survey_papers'
 ]
 
 
