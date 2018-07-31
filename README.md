@@ -32,6 +32,7 @@
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
+[Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
@@ -51,6 +52,7 @@
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
+[Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 
@@ -90,6 +92,7 @@
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
+[Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
