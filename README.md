@@ -15,6 +15,7 @@
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
+  - [Group Convolutions](#group-convolutions)
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Soft Attention](#soft-attention)
@@ -57,6 +58,7 @@
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 
 ## Semantic Segmentation
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
@@ -98,6 +100,7 @@
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
 
@@ -113,6 +116,9 @@
 
 ## Efficiency
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
+
+## Group Convolutions
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 
 ## Loss Functions
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
