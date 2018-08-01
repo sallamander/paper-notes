@@ -1,7 +1,7 @@
 # [3D G-CNNs for Pulmonary Nodule Detection](https://arxiv.org/abs/1804.04656)
 
 Date: 04/12/2018  
-Tags: task.object_detection, domain.medical, topic.group_convolutions
+Tags: task.object_classification, domain.medical, topic.group_convolutions
 
 - The authors are motivated to apply group convolutions to CNNs and demonstrate their effectiveness in the medical domain, where annotated data is scarce
 - The authors propose a fairly basic convolutional neural network for nodule classification, but substitute group convolutions

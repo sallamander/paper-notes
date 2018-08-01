@@ -60,6 +60,8 @@
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
+[A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
+[Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 
 ## Semantic Segmentation
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
@@ -104,6 +106,8 @@
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
+[A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
+[Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 
 
 
