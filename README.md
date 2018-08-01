@@ -33,6 +33,7 @@
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
@@ -55,6 +56,7 @@
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
+[DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 
 ## Semantic Segmentation
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
@@ -94,6 +96,7 @@
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
+[DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
