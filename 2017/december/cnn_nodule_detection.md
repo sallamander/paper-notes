@@ -1,4 +1,4 @@
-# [Deep Convolution Neural Networks f or Pulmonary Nodule Detection in CT imaging](http://luna16.grand-challenge.org/serve/public_html/pdfs/20171222_073722_JianpeiCAD_NDET.pdf/)
+# [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](http://luna16.grand-challenge.org/serve/public_html/pdfs/20171222_073722_JianpeiCAD_NDET.pdf/)
 
 Date: 12/22/2017  
 Tags: task.object_detection, task.object_classification, domain.medical
