@@ -34,7 +34,11 @@
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
+[Deep Convolution Neural Networks f or Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
+[3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
@@ -56,9 +60,12 @@
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
+[3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
+[3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
+[Deep Convolution Neural Networks f or Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
+[3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
-[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
@@ -100,10 +107,14 @@
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
+[3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
+[Deep Convolution Neural Networks f or Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
+[3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
-[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
@@ -124,7 +135,7 @@
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
 
 ## Group Convolutions
-[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_detection.md)  
+[3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 
 ## Loss Functions
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  

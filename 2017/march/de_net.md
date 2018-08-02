@@ -27,4 +27,4 @@ Tags: task.object_detection
 
 ## DeNet Architecture
 
-![](./images/denet.md)
+![](./images/denet.png)

@@ -19,13 +19,17 @@ TASK_OPTIONS = [
     'object_detection',
     'semantic_segmentation',
     'instance_segmentation',
+    'image_captioning',
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [
     'deep_supervision',
     'efficiency',
+    'group_convolutions',
+    'loss_functions',
     'non_local_neural_networks',
-    'soft_attention'
+    'soft_attention',
+    'survey_papers'
 ]
 
 def parse_paper_note_paths(paper_note_paths):
@@ -81,6 +85,8 @@ def parse_subsection_papers(subsection, readme_text, paper_note_paths):
     paper_texts = match.split('\n')
 
     for paper_text in paper_texts:
+        if not paper_text or paper_text.startswith('#'):
+            continue
         # Finds # [paper_title](relative_path) => paper_title
         paper_title_matches = (
             re.findall('(?<=\[)[\s\S]+?(?=\])', paper_text)
