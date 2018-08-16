@@ -108,6 +108,7 @@
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
+[Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
