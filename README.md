@@ -20,6 +20,7 @@
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Soft Attention](#soft-attention)
   - [Survey Papers](#survey-papers)
+  - [Weak Supervision](#weak-supervision)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -82,6 +83,7 @@
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
+[Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 
 ## Instance Segmentation
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
@@ -120,6 +122,7 @@
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
+[Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 
 
@@ -152,3 +155,7 @@
 
 ## Survey Papers
 [Speed/accuracy trade-offs for modern convolutional object detectors](./2016/november/modern_object_detectors.md)  
+
+## Weak Supervision
+[Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
+[Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  

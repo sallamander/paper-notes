@@ -33,7 +33,8 @@ TOPIC_OPTIONS = [
     'loss_functions',
     'non_local_neural_networks',
     'soft_attention',
-    'survey_papers'
+    'survey_papers',
+    'weak_supervision'
 ]
 
 
