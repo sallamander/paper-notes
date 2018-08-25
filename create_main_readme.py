@@ -18,6 +18,7 @@ import pandas as pd
 
 DOMAIN_OPTIONS = ['medical']
 TASK_OPTIONS = [
+    'action_classification',
     'object_classification',
     'object_localization',
     'object_detection',

@@ -3,6 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Papers Organized By Task](#papers-organized-by-task)
+  - [Action Classification](#action-classification)
   - [Object Classification](#object-classification)
   - [Object Localization](#object-localization)
   - [Object Detection](#object-detection)
@@ -27,11 +28,15 @@
 
 # Papers Organized By Task
 
+## Action Classification
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
+
 ## Object Classification
 [ImageNet Classification with Deep Convolutional Neural Networks](./2012/december/alexnet.md)  
 [Visualizing and Understanding Convolutional Networks](./2013/november/zf_net.md)  
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
@@ -44,6 +49,7 @@
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
 
 ## Object Detection
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
