@@ -10,6 +10,7 @@
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
+  - [Image Registration](#image-registration)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Medical](#medical)
@@ -22,6 +23,7 @@
   - [Soft Attention](#soft-attention)
   - [Survey Papers](#survey-papers)
   - [Weak Supervision](#weak-supervision)
+  - [Unsupervised Learning](#unsupervised-learning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -99,6 +101,10 @@
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 
+## Image Registration
+[Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
+[An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
+
 ## Cardiac Motion Scoring
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
@@ -123,6 +129,7 @@
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
+[An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
@@ -165,3 +172,6 @@
 ## Weak Supervision
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
+
+## Unsupervised Learning
+[An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  

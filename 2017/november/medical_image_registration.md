@@ -1,7 +1,7 @@
 # [Label-driven weakly-supervised learning for multimodal deformable image registration](https://arxiv.org/abs/1711.01666)
 
 Date: 11/05/2017  
-Tags: task.registration, domain.medical, topic.weak_supervision
+Tags: task.image_registration, domain.medical, topic.weak_supervision
 
 - The authors are motivated to build a fast and robust algorithm for spatially aligning (i.e. registering) medical images from different modalities
     - Problems with other methods include:

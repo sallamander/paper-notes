@@ -25,6 +25,7 @@ TASK_OPTIONS = [
     'semantic_segmentation',
     'instance_segmentation',
     'image_captioning',
+    'image_registration',
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [
@@ -35,7 +36,8 @@ TOPIC_OPTIONS = [
     'non_local_neural_networks',
     'soft_attention',
     'survey_papers',
-    'weak_supervision'
+    'weak_supervision',
+    'unsupervised_learning'
 ]
 
 
