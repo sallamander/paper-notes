@@ -66,6 +66,7 @@
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Speed/accuracy trade-offs for modern convolutional object detectors](./2016/november/modern_object_detectors.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
+[YOLO9000: Better, Faster, Stronger](./2016/december/yolo_9000.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  

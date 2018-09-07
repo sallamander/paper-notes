@@ -15,9 +15,9 @@ Tags: task.object_detection
     1. Dividing the entire image into an SxS grid.
     2. If the center of an object falls into a grid cell, that grid cell is responsible for detecting that object.
     3. Each grid cell predicts B bounding boxes and confidence scores for those boxes, where the confidence score reflects how confident the model is that the box contains an object and how accurate it thinks the box is that it predicts.
-        - Bounding boxes are predicted using an (x, y) center relative to the tounds of the grid cell and the (width, height) that are relative to the whole image (they normalize the bounding box width and height by the image width and height to get it to fall between 0 and 1)
+        - Bounding boxes are predicted using an (x, y) center relative to the bounds of the grid cell and the (width, height) that are relative to the whole image (they normalize the bounding box width and height by the image width and height to get it to fall between 0 and 1)
         - The class probabilities that each grid cell predicts are conditioned on the grid cell containing any object
-        - The bounding box predictor that has the highest current IOU with the groudn truth is "responsible" for predicting an object
+        - The bounding box predictor that has the highest current IOU with the ground truth is "responsible" for predicting an object
 - The architecture that they use is inspired by the GoogLeNet model for image classification, and has 24 convolutional layers followed by 2 fully connected layers (although they also release a Fast YOLO that is much smaller)
     - They use a linear activation for the final layer and all other layers use a leaky ReLU with alpha equal to 0.1
     - They use L2 loss on the bounding box coordinates, but weight the loss from bounding box coordinates much higher (~10x) relative to the confidence predictions for boxes that don't contain objects
