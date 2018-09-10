@@ -1,6 +1,6 @@
 # [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
-Date: 11/04/2014  
+Date: 09/04/2014  
 Tags: task.object_classification, task.object_localization, task.action_classification
 
 - The authors are motivated to investigate the effect of convolutional network depth on accuracy in a large-scale image recognition setting (i.e. ImageNet). Their aim is to fix other parameters of the network architecture and steadily increase the depth of the network by adding more convolutional layers.
