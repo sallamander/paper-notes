@@ -1,7 +1,7 @@
 # [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
 Date: 06/08/2015  
-Tags: task.object_detection
+Tags: task.object_detection, topic.efficiency
 
 - The authors are motivated to build a single neural network that [in one pass] predicts bounding boxes and class probabilities directly from full images
     - They want to avoid a complex pipeline that has many steps and is thus slow and hard to optimize (partially because each component has to be trained separately)
