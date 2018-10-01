@@ -40,6 +40,7 @@
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
 [Going Deeper with Convolutions](./2014/september/google_net.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
+[Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
@@ -53,6 +54,7 @@
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
+[Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 
 ## Object Detection
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
@@ -63,6 +65,7 @@
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ](./2015/june/faster_rcnn.md)  
 [You Only Look Once: Unified, Real-Time Object Detection](./2015/june/yolo.md)  
 [SSD: Single Shot MultiBox Detector](./2015/december/ssd.md)  
+[Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](./2016/april/hypernet.md)  
 [R-FCN: Object Detection via Region-based Fully Convolutional Networks](./2016/may/rfcn.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
@@ -98,6 +101,7 @@
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 
 ## Instance Segmentation
+[Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  

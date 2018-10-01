@@ -192,14 +192,14 @@ def parse_markdown_files(fpaths_markdown):
             tags = tags_str.split(',')
             for tag in tags:
                 if 'domain' in tag:
-                    domains.append(tag.split('domain.')[1])
+                    domains.append(tag.split('domain.')[1].strip())
                 if 'task' in tag:
-                    tasks.append(tag.split('task.')[1])
+                    tasks.append(tag.split('task.')[1].strip())
                 elif 'topic' in tag:
-                    topics.append(tag.split('topic.')[1])
+                    topics.append(tag.split('topic.')[1].strip())
 
             assert len(tasks) >= 1
-
+            
             rows.append({
                 'fpath_markdown': fpath_markdown,
                 'date': date,
