@@ -77,6 +77,7 @@
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
+[Single-Shot Refinement Neural Network for Object Detection](./2017/november/refine_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
