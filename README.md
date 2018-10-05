@@ -87,6 +87,7 @@
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
+[CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
 
 ## Semantic Segmentation
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  
