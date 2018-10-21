@@ -41,6 +41,7 @@
 [Going Deeper with Convolutions](./2014/september/google_net.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](./2015/february/batch_norm.md)  
+[Rethinking the Inception Architecture for Computer Vision](./2015/december/inception_v2_v3.md)  
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
