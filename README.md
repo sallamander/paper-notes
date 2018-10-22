@@ -20,6 +20,7 @@
   - [Group Convolutions](#group-convolutions)
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
+  - [Post Processing](#post-processing)
   - [Soft Attention](#soft-attention)
   - [Survey Papers](#survey-papers)
   - [Weak Supervision](#weak-supervision)
@@ -76,6 +77,7 @@
 [YOLO9000: Better, Faster, Stronger](./2016/december/yolo_9000.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
+[Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
@@ -177,6 +179,9 @@
 ## Non Local Neural Networks
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
+
+## Post Processing
+[Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
 
 ## Soft Attention
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  

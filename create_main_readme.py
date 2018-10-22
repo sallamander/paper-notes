@@ -34,6 +34,7 @@ TOPIC_OPTIONS = [
     'group_convolutions',
     'loss_functions',
     'non_local_neural_networks',
+    'post_processing',
     'soft_attention',
     'survey_papers',
     'weak_supervision',

@@ -1,6 +1,6 @@
 # [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 
-Date: 2/12/2015  
+Date: 12/2/2015  
 Tags: task.object_classification  
 
 - The authors are motivated to scale up neural network size in ways that aim at utilizing the added computation as efficiently as possible
