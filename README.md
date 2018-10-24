@@ -7,6 +7,7 @@
   - [Object Classification](#object-classification)
   - [Object Localization](#object-localization)
   - [Object Detection](#object-detection)
+  - [Scene Classification](#scene-classification)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
@@ -48,6 +49,7 @@
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
@@ -80,6 +82,7 @@
 [Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
+[Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
 [Single-Shot Refinement Neural Network for Object Detection](./2017/november/refine_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
@@ -92,6 +95,9 @@
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
+
+## Scene Classification
+[Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 
 ## Semantic Segmentation
 [Rich feature hierarchies for accurate object detection and semantic segmentation](./2013/november/rcnn.md)  

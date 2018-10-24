@@ -22,6 +22,7 @@ TASK_OPTIONS = [
     'object_classification',
     'object_localization',
     'object_detection',
+    'scene_classification',
     'semantic_segmentation',
     'instance_segmentation',
     'image_captioning',
