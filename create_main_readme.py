@@ -27,6 +27,7 @@ TASK_OPTIONS = [
     'instance_segmentation',
     'image_captioning',
     'image_registration',
+    'pose_estimation',
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [

@@ -12,6 +12,7 @@
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
   - [Image Registration](#image-registration)
+  - [Pose Estimation](#pose-estimation)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Medical](#medical)
@@ -125,6 +126,9 @@
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
 
+## Pose Estimation
+[Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
+
 ## Cardiac Motion Scoring
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
 
@@ -165,6 +169,7 @@
 ## Deep Supervision
 [Going Deeper with Convolutions](./2014/september/google_net.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
+[Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
 [3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes](./2016/july/liver_segmentation_deep_supervision.md)  
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
