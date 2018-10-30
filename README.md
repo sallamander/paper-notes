@@ -46,6 +46,7 @@
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](./2015/february/batch_norm.md)  
 [Rethinking the Inception Architecture for Computer Vision](./2015/december/inception_v2_v3.md)  
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
+[Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](./2016/february/inception_v4_resnet.md)  
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
