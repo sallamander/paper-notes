@@ -27,7 +27,9 @@ TASK_OPTIONS = [
     'instance_segmentation',
     'image_captioning',
     'image_registration',
+    'language_modeling',
     'pose_estimation',
+    'speech_recognition',
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [
@@ -37,6 +39,7 @@ TOPIC_OPTIONS = [
     'loss_functions',
     'non_local_neural_networks',
     'post_processing',
+    'scalability',
     'soft_attention',
     'survey_papers',
     'weak_supervision',

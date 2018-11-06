@@ -12,7 +12,9 @@
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
   - [Image Registration](#image-registration)
+  - [Language Modeling](#language-modeling)
   - [Pose Estimation](#pose-estimation)
+  - [Speech Recognition](#speech-recognition)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Medical](#medical)
@@ -23,6 +25,7 @@
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Post Processing](#post-processing)
+  - [Scalability](#scalability)
   - [Soft Attention](#soft-attention)
   - [Survey Papers](#survey-papers)
   - [Weak Supervision](#weak-supervision)
@@ -53,6 +56,7 @@
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
+[Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
@@ -127,8 +131,14 @@
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
 
+## Language Modeling
+[Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
+
 ## Pose Estimation
 [Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
+
+## Speech Recognition
+[Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 
 ## Cardiac Motion Scoring
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
@@ -194,6 +204,9 @@
 
 ## Post Processing
 [Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
+
+## Scalability
+[Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 
 ## Soft Attention
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
