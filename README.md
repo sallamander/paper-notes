@@ -11,6 +11,7 @@
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
+  - [Image Generation](#image-generation)
   - [Image Registration](#image-registration)
   - [Language Modeling](#language-modeling)
   - [Pose Estimation](#pose-estimation)
@@ -21,6 +22,7 @@
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
+  - [Generative Adversarial Networks](#generative-adversarial-networks)
   - [Group Convolutions](#group-convolutions)
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
@@ -127,6 +129,9 @@
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 
+## Image Generation
+[Generative Adversarial Networks](./2014/june/gan.md)  
+
 ## Image Registration
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
@@ -191,6 +196,9 @@
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
 [YOLO9000: Better, Faster, Stronger](./2016/december/yolo_9000.md)  
 [YOLOv3: An Incremental Improvement](./2018/april/yolo_v3.md)  
+
+## Generative Adversarial Networks
+[Generative Adversarial Networks](./2014/june/gan.md)  
 
 ## Group Convolutions
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  

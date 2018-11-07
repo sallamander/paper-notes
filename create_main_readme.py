@@ -26,6 +26,7 @@ TASK_OPTIONS = [
     'semantic_segmentation',
     'instance_segmentation',
     'image_captioning',
+    'image_generation',
     'image_registration',
     'language_modeling',
     'pose_estimation',
@@ -35,6 +36,7 @@ TASK_OPTIONS = [
 TOPIC_OPTIONS = [
     'deep_supervision',
     'efficiency',
+    'generative_adversarial_networks',
     'group_convolutions',
     'loss_functions',
     'non_local_neural_networks',
