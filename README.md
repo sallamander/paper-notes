@@ -22,6 +22,7 @@
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
+  - [Generalization](#generalization)
   - [Generative Adversarial Networks](#generative-adversarial-networks)
   - [Group Convolutions](#group-convolutions)
   - [Loss Functions](#loss-functions)
@@ -196,6 +197,9 @@
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
 [YOLO9000: Better, Faster, Stronger](./2016/december/yolo_9000.md)  
 [YOLOv3: An Incremental Improvement](./2018/april/yolo_v3.md)  
+
+## Generalization
+[Understanding deep learning requires rethinking generalization](./2016/november/rethinking_generalization.md)  
 
 ## Generative Adversarial Networks
 [Generative Adversarial Networks](./2014/june/gan.md)  

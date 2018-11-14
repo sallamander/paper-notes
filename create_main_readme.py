@@ -36,6 +36,7 @@ TASK_OPTIONS = [
 TOPIC_OPTIONS = [
     'deep_supervision',
     'efficiency',
+    'generalization',
     'generative_adversarial_networks',
     'group_convolutions',
     'loss_functions',
@@ -206,7 +207,6 @@ def parse_markdown_files(fpaths_markdown):
                 elif 'topic' in tag:
                     topics.append(tag.split('topic.')[1].strip())
 
-            assert len(tasks) >= 1
             
             rows.append({
                 'fpath_markdown': fpath_markdown,
