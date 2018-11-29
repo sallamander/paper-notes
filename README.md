@@ -50,6 +50,7 @@
 [Going Deeper with Convolutions](./2014/september/google_net.md)  
 [Deeply Supervised Nets](./2014/september/deeply_supervised_nets.md)  
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](./2015/february/batch_norm.md)  
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](./2015/november/dcgan.md)  
 [Rethinking the Inception Architecture for Computer Vision](./2015/december/inception_v2_v3.md)  
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
 [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](./2016/february/inception_v4_resnet.md)  
@@ -205,6 +206,7 @@
 
 ## Generative Adversarial Networks
 [Generative Adversarial Networks](./2014/june/gan.md)  
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](./2015/november/dcgan.md)  
 
 ## Group Convolutions
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
@@ -234,4 +236,5 @@
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 
 ## Unsupervised Learning
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](./2015/november/dcgan.md)  
 [An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
