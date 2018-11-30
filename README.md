@@ -131,6 +131,7 @@
 
 ## Instance Segmentation
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
+[Associative Embedding: End-to-End Learning for Joint Detection and Grouping](./2016/november/associative_embedding.md)  
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
@@ -150,6 +151,7 @@
 
 ## Pose Estimation
 [Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
+[Associative Embedding: End-to-End Learning for Joint Detection and Grouping](./2016/november/associative_embedding.md)  
 
 ## Speech Recognition
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
