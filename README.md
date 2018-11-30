@@ -5,6 +5,7 @@
 - [Papers Organized By Task](#papers-organized-by-task)
   - [Action Classification](#action-classification)
   - [Object Classification](#object-classification)
+  - [Object Counting](#object-counting)
   - [Object Localization](#object-localization)
   - [Object Detection](#object-detection)
   - [Scene Classification](#scene-classification)
@@ -65,6 +66,9 @@
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
+
+## Object Counting
+[Where are the Blobs: Counting by Localization with Point Supervision](./2018/july/counting_with_point_supervision.md)  
 
 ## Object Localization
 [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](./2013/december/overfeat.md)  

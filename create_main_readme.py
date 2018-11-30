@@ -20,6 +20,7 @@ DOMAIN_OPTIONS = ['medical']
 TASK_OPTIONS = [
     'action_classification',
     'object_classification',
+    'object_counting',
     'object_localization',
     'object_detection',
     'scene_classification',
