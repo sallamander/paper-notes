@@ -30,6 +30,7 @@ TASK_OPTIONS = [
     'image_generation',
     'image_registration',
     'language_modeling',
+    'neural_machine_translation',
     'pose_estimation',
     'speech_recognition',
     'cardiac_motion_scoring'

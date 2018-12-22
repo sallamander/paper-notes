@@ -15,6 +15,7 @@
   - [Image Generation](#image-generation)
   - [Image Registration](#image-registration)
   - [Language Modeling](#language-modeling)
+  - [Neural Machine Translation](#neural-machine-translation)
   - [Pose Estimation](#pose-estimation)
   - [Speech Recognition](#speech-recognition)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
@@ -149,6 +150,9 @@
 ## Language Modeling
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 
+## Neural Machine Translation
+[Neural Machine Translation by Jointly Learning to Align and Translate](./2014/september/nmt_attention.md)  
+
 ## Pose Estimation
 [Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
 [Associative Embedding: End-to-End Learning for Joint Detection and Grouping](./2016/november/associative_embedding.md)  
@@ -233,6 +237,7 @@
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 
 ## Soft Attention
+[Neural Machine Translation by Jointly Learning to Align and Translate](./2014/september/nmt_attention.md)  
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 
