@@ -45,6 +45,7 @@ TOPIC_OPTIONS = [
     'non_local_neural_networks',
     'post_processing',
     'scalability',
+    'semi-supervised_learning',
     'soft_attention',
     'survey_papers',
     'weak_supervision',

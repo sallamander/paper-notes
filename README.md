@@ -31,6 +31,7 @@
   - [Non Local Neural Networks](#non-local-neural-networks)
   - [Post Processing](#post-processing)
   - [Scalability](#scalability)
+  - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Soft Attention](#soft-attention)
   - [Survey Papers](#survey-papers)
   - [Weak Supervision](#weak-supervision)
@@ -129,6 +130,7 @@
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
+[Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
 
 ## Instance Segmentation
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
@@ -235,6 +237,9 @@
 
 ## Scalability
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
+
+## Semi-Supervised Learning
+[Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
 
 ## Soft Attention
 [Neural Machine Translation by Jointly Learning to Align and Translate](./2014/september/nmt_attention.md)  
