@@ -27,6 +27,7 @@ TASK_OPTIONS = [
     'semantic_segmentation',
     'instance_segmentation',
     'image_captioning',
+    'image_denoising',
     'image_generation',
     'image_registration',
     'language_modeling',

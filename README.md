@@ -12,6 +12,7 @@
   - [Semantic Segmentation](#semantic-segmentation)
   - [Instance Segmentation](#instance-segmentation)
   - [Image Captioning](#image-captioning)
+  - [Image Denoising](#image-denoising)
   - [Image Generation](#image-generation)
   - [Image Registration](#image-registration)
   - [Language Modeling](#language-modeling)
@@ -142,6 +143,9 @@
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
 
+## Image Denoising
+[Noise2Void - Learning Denoising from Single Noisy Images](./2018/november/noise2void.md)  
+
 ## Image Generation
 [Generative Adversarial Networks](./2014/june/gan.md)  
 
@@ -195,6 +199,7 @@
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
+[Noise2Void - Learning Denoising from Single Noisy Images](./2018/november/noise2void.md)  
 
 
 
