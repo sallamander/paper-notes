@@ -23,6 +23,7 @@
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Medical](#medical)
 - [Papers Organized By Topic](#papers-organized-by-topic)
+  - [Adversarial Attacks](#adversarial-attacks)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
   - [Generalization](#generalization)
@@ -204,6 +205,9 @@
 
 
 # Papers Organized By Topic
+
+## Adversarial Attacks
+[Adversarial Reprogramming of Neural Networks](./2018/june/adversarial_reprogramming.md)  
 
 ## Deep Supervision
 [Going Deeper with Convolutions](./2014/september/google_net.md)  

@@ -37,6 +37,7 @@ TASK_OPTIONS = [
     'cardiac_motion_scoring'
 ]
 TOPIC_OPTIONS = [
+    'adversarial_attacks',
     'deep_supervision',
     'efficiency',
     'generalization',
