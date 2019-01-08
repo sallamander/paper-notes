@@ -149,6 +149,7 @@
 
 ## Image Generation
 [Generative Adversarial Networks](./2014/june/gan.md)  
+[Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling](./2018/december/high_fidelity_images.md)  
 
 ## Image Registration
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
