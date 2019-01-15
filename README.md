@@ -24,6 +24,7 @@
   - [Medical](#medical)
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Adversarial Attacks](#adversarial-attacks)
+  - [Capsule Networks](#capsule-networks)
   - [Deep Supervision](#deep-supervision)
   - [Efficiency](#efficiency)
   - [Generalization](#generalization)
@@ -64,6 +65,7 @@
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
+[Dynamic Routing Between Capsules](./2017/october/capsule_nets.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
@@ -209,6 +211,9 @@
 
 ## Adversarial Attacks
 [Adversarial Reprogramming of Neural Networks](./2018/june/adversarial_reprogramming.md)  
+
+## Capsule Networks
+[Dynamic Routing Between Capsules](./2017/october/capsule_nets.md)  
 
 ## Deep Supervision
 [Going Deeper with Convolutions](./2014/september/google_net.md)  

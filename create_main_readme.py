@@ -38,6 +38,7 @@ TASK_OPTIONS = [
 ]
 TOPIC_OPTIONS = [
     'adversarial_attacks',
+    'capsule_networks',
     'deep_supervision',
     'efficiency',
     'generalization',
