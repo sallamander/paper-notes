@@ -15,6 +15,7 @@
   - [Image Denoising](#image-denoising)
   - [Image Generation](#image-generation)
   - [Image Registration](#image-registration)
+  - [Image Super Resolution](#image-super-resolution)
   - [Language Modeling](#language-modeling)
   - [Neural Machine Translation](#neural-machine-translation)
   - [Pose Estimation](#pose-estimation)
@@ -157,6 +158,9 @@
 ## Image Registration
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
 [An Unsupervised Learning Model for Deformable Medical Image Registration](./2018/february/unsupervised_medical_image_registration.md)  
+
+## Image Super Resolution
+[Image Super-Resolution Using Deep Convolutional Networks](./2014/december/image_super_resolution.md)  
 
 ## Language Modeling
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  

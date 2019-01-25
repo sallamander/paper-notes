@@ -30,6 +30,7 @@ TASK_OPTIONS = [
     'image_denoising',
     'image_generation',
     'image_registration',
+    'image_super_resolution',
     'language_modeling',
     'neural_machine_translation',
     'pose_estimation',
