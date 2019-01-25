@@ -119,6 +119,7 @@
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
+[Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 
 ## Scene Classification
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  

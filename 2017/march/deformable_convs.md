@@ -17,7 +17,7 @@ Tags: task.object_detection, task.semantic_segmentation
 - Through training / experimentation, they note:
     - Using increasing numbers of deformable convolutional layers with ResNet-101 as a feature extraction network shows increasing accuracy, but starts to saturate after using 3 deformable convolutional layers.
     - The learned offsets in the deformable convolutional layers are highly adaptive to the image content
-        - The receptive field sizes of deformable filters are correlated with objet sizes, indicating that the deformation is effectively learned from image content
+        - The receptive field sizes of deformable filters are correlated with object sizes, indicating that the deformation is effectively learned from image content
         - The filter sizes on the background region are between those on medium and large objects, indicating that a relatively large receptive field is necessary for recognizing the background regions
     - Adding deformable RoI pooling to Faster R-CNN and R-FCN produces noticeable improvements in performance, and has additive gains to adding in deformable convolutional layers.
 
