@@ -72,6 +72,7 @@
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
+[Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 
 ## Object Counting
 [Where are the Blobs: Counting by Localization with Point Supervision](./2018/july/counting_with_point_supervision.md)  
@@ -211,9 +212,11 @@
 
 ## Adversarial Attacks
 [Adversarial Reprogramming of Neural Networks](./2018/june/adversarial_reprogramming.md)  
+[Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 
 ## Capsule Networks
 [Dynamic Routing Between Capsules](./2017/october/capsule_nets.md)  
+[Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 
 ## Deep Supervision
 [Going Deeper with Convolutions](./2014/september/google_net.md)  
