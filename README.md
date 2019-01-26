@@ -74,6 +74,7 @@
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 [Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
+[FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
 ## Object Counting
 [Where are the Blobs: Counting by Localization with Point Supervision](./2018/july/counting_with_point_supervision.md)  
@@ -120,6 +121,7 @@
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
+[FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
 ## Scene Classification
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
@@ -145,6 +147,7 @@
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
+[FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
