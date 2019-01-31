@@ -64,6 +64,7 @@
 [Identity Mappings in Deep Residual Networks](./2016/march/identity_mappings_resnets.md)  
 [Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks](./2016/may/diag_convnet.md)  
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
+[Densely Connected Convolutional Networks](./2016/august/densenet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
