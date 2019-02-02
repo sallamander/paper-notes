@@ -16,9 +16,10 @@ from collections import defaultdict
 
 import pandas as pd
 
-DOMAIN_OPTIONS = ['medical']
+DOMAIN_OPTIONS = ['environmental', 'medical']
 TASK_OPTIONS = [
     'action_classification',
+    'forecasting',
     'object_classification',
     'object_counting',
     'object_localization',

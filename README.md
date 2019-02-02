@@ -4,6 +4,7 @@
 
 - [Papers Organized By Task](#papers-organized-by-task)
   - [Action Classification](#action-classification)
+  - [Forecasting](#forecasting)
   - [Object Classification](#object-classification)
   - [Object Counting](#object-counting)
   - [Object Localization](#object-localization)
@@ -22,6 +23,7 @@
   - [Speech Recognition](#speech-recognition)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
 - [Papers Organized By Domain](#papers-organized-by-domain)
+  - [Environmental](#environmental)
   - [Medical](#medical)
 - [Papers Organized By Topic](#papers-organized-by-topic)
   - [Adversarial Attacks](#adversarial-attacks)
@@ -48,6 +50,9 @@
 
 ## Action Classification
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
+
+## Forecasting
+[Deep Photovoltaic Nowcasting](./2018/october/photovoltaic_nowcasting.md)  
 
 ## Object Classification
 [ImageNet Classification with Deep Convolutional Neural Networks](./2012/december/alexnet.md)  
@@ -187,6 +192,9 @@
 
 
 # Papers Organized By Domain
+
+## Environmental
+[Deep Photovoltaic Nowcasting](./2018/october/photovoltaic_nowcasting.md)  
 
 ## Medical
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](./2015/may/unet.md)  
