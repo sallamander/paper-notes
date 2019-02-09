@@ -174,6 +174,7 @@
 
 ## Image Super Resolution
 [Image Super-Resolution Using Deep Convolutional Networks](./2014/december/image_super_resolution.md)  
+[Image Super-Resolution via RL-CSC: When Residual Learning Meets Convolutional Sparse Coding](./2018/december/image_super_res_rlcsc.md)  
 
 ## Language Modeling
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
