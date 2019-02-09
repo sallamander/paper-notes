@@ -138,6 +138,7 @@
 [Fully Convolutional Networks for Semantic Segmentation](./2014/november/fcn_semantic_segmentation.md)  
 [Learning deconvolution network for semantic segmentation](./2015/may/deconv_network_semantic_segmentation.md)  
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](./2015/may/unet.md)  
+[SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](./2015/november/segnet.md)  
 [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](./2016/june/enet.md)  
 [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](./2016/june/vnet.md)  
 [3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes](./2016/july/liver_segmentation_deep_supervision.md)  
