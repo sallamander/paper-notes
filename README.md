@@ -52,6 +52,7 @@
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](./2014/september/vgg.md)  
 
 ## Forecasting
+[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](./2015/june/precipitation_nowcasting.md)  
 [Deep Photovoltaic Nowcasting](./2018/october/photovoltaic_nowcasting.md)  
 
 ## Object Classification
@@ -195,6 +196,7 @@
 # Papers Organized By Domain
 
 ## Environmental
+[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](./2015/june/precipitation_nowcasting.md)  
 [Deep Photovoltaic Nowcasting](./2018/october/photovoltaic_nowcasting.md)  
 
 ## Medical
