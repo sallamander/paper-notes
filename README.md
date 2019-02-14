@@ -146,6 +146,7 @@
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deformable Convolutional Networks](./2017/march/deformable_convs.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
+[Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](./2018/february/segmentation_atrous_separable_conv.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
