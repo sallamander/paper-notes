@@ -118,6 +118,7 @@
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
 [Single-Shot Refinement Neural Network for Object Detection](./2017/november/refine_net.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
+[An Analysis of Scale Invariance in Object Detection - SNIP](./2017/november/snip.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
