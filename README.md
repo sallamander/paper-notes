@@ -125,6 +125,7 @@
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [YOLOv3: An Incremental Improvement](./2018/april/yolo_v3.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
+[SNIPER: Efficient Multi-Scale Training](./2018/may/sniper.md)  
 [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](./2018/june/3d_context_enhanced_lesion_detection.md)  
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
