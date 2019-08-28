@@ -123,6 +123,7 @@
 [Deep Convolution Neural Networks for Pulmonary Nodule Detection in CT imaging](./2017/december/cnn_nodule_detection.md)  
 [3DCNN for Lung Nodule Detection  And False Positive Reduction](./2018/january/3d_cnn_nodule_detection.md)  
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
+[Path Aggregation Network for Instance Segmentation](./2018/march/path_aggregation.md)  
 [YOLOv3: An Incremental Improvement](./2018/april/yolo_v3.md)  
 [S4ND: Single-Shot Single-Scale Lung Nodule Detection](./2018/may/s4nd_nodule_detection.md)  
 [SNIPER: Efficient Multi-Scale Training](./2018/may/sniper.md)  
@@ -159,6 +160,7 @@
 [Feature Pyramid Networks for Object Detection](./2016/december/fpn_object_detection.md)  
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
+[Path Aggregation Network for Instance Segmentation](./2018/march/path_aggregation.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
 ## Image Captioning
