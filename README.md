@@ -35,6 +35,7 @@
   - [Group Convolutions](#group-convolutions)
   - [Loss Functions](#loss-functions)
   - [Non Local Neural Networks](#non-local-neural-networks)
+  - [Pretraining](#pretraining)
   - [Post Processing](#post-processing)
   - [Scalability](#scalability)
   - [Semi-Supervised Learning](#semi-supervised-learning)
@@ -131,6 +132,7 @@
 [A Pulmonary Nodule Detection Model Based on Progressive Resolution and Hierarchical Saliency](./2018/july/prn_hsn_nodule_detection.md)  
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
+[Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
@@ -161,6 +163,7 @@
 [Mask R-CNN](./2017/march/mask_rcnn.md)  
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [Path Aggregation Network for Instance Segmentation](./2018/march/path_aggregation.md)  
+[Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
 ## Image Captioning
@@ -276,6 +279,9 @@
 ## Non Local Neural Networks
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [Cardiac Motion Scoring with Segment- and Subject-level Non-Local Modeling](./2018/june/cardiac_motion_scoring.md)  
+
+## Pretraining
+[Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
 
 ## Post Processing
 [Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
