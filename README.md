@@ -133,6 +133,7 @@
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
 [Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
+[Scale-Aware Trident Networks for Object Detection](./2019/january/trident_net.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
