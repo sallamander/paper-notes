@@ -136,6 +136,7 @@
 [Scale-Aware Trident Networks for Object Detection](./2019/january/trident_net.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
+[CenterNet: Keypoint Triplets for Object Detection](./2019/april/center_net.md)  
 
 ## Scene Classification
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
