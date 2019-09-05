@@ -158,6 +158,7 @@
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
+[FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](./2019/march/fast_fcn.md)  
 
 ## Instance Segmentation
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
