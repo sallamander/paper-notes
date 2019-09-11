@@ -84,6 +84,7 @@
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 [Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
+[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Object Counting
 [Where are the Blobs: Counting by Localization with Point Supervision](./2018/july/counting_with_point_supervision.md)  
@@ -138,6 +139,7 @@
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 [CenterNet: Keypoint Triplets for Object Detection](./2019/april/center_net.md)  
+[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Scene Classification
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
@@ -159,6 +161,7 @@
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
 [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](./2019/march/fast_fcn.md)  
+[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Instance Segmentation
 [Deep Residual Learning for Image Recognition](./2015/december/resnet.md)  
@@ -169,6 +172,7 @@
 [Path Aggregation Network for Instance Segmentation](./2018/march/path_aggregation.md)  
 [Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
+[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
@@ -197,6 +201,7 @@
 ## Pose Estimation
 [Stacked Hourglass Networks for Human Pose Estimation](./2016/march/stacked_hourglass_networks.md)  
 [Associative Embedding: End-to-End Learning for Joint Detection and Grouping](./2016/november/associative_embedding.md)  
+[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Speech Recognition
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
