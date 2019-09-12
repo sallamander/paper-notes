@@ -73,6 +73,7 @@
 [ZNET - LUNG NODULE DETECTION](./2016/june/znet.md)  
 [Densely Connected Convolutional Networks](./2016/august/densenet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
+[Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](./2017/march/mean_teacher.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [Dynamic Routing Between Capsules](./2017/october/capsule_nets.md)  
@@ -84,7 +85,6 @@
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
 [Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
-[Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Object Counting
 [Where are the Blobs: Counting by Localization with Point Supervision](./2018/july/counting_with_point_supervision.md)  
@@ -299,6 +299,7 @@
 [Deep Learning Scaling is Predictable, Empirically](./2017/december/dl_scaling.md)  
 
 ## Semi-Supervised Learning
+[Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](./2017/march/mean_teacher.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
 
 ## Soft Attention
