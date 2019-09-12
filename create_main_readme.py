@@ -36,7 +36,8 @@ TASK_OPTIONS = [
     'neural_machine_translation',
     'pose_estimation',
     'speech_recognition',
-    'cardiac_motion_scoring'
+    'cardiac_motion_scoring',
+    'video_classification'
 ]
 TOPIC_OPTIONS = [
     'adversarial_attacks',
