@@ -138,6 +138,7 @@
 [Scale-Aware Trident Networks for Object Detection](./2019/january/trident_net.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
+[FCOS: Fully Convolutional One-Stage Object Detection](./2019/april/fcos.md)  
 [CenterNet: Keypoint Triplets for Object Detection](./2019/april/center_net.md)  
 [Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
