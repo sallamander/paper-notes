@@ -76,6 +76,7 @@
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](./2017/march/mean_teacher.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[Dual Path Networks](./2017/july/dual_path_networks.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [Dynamic Routing Between Capsules](./2017/october/capsule_nets.md)  
 [3D Deep Convolution Neural Network Application in Lung Nodule Detection on CT Images](./2017/november/cnns_nodule_detection.md)  
@@ -117,6 +118,7 @@
 [DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling](./2017/march/de_net.md)  
 [Soft-NMS -- Improving Object Detection With One Line of Code](./2017/april/soft_nms.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
+[Dual Path Networks](./2017/july/dual_path_networks.md)  
 [Focal Loss for Dense Object Detection](./2017/august/retina_net.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 [3D Region Proposal U-Net with Dense and Residual Learning for Lung Nodule Detection](./2017/september/3d_rpunet_nodule_detection.md)  
@@ -146,6 +148,7 @@
 [Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
 ## Scene Classification
+[Dual Path Networks](./2017/july/dual_path_networks.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
 
 ## Semantic Segmentation
@@ -160,6 +163,7 @@
 [CNN-based Segmentation of Medical Imaging](./2017/january/medical_image_semantic_segmentation.md)  
 [Deformable Convolutional Networks](./2017/march/deformable_convs.md)  
 [Deeply-Supervised CNN for Prostate Segmentation](./2017/march/prostate_segmentation_deep_supervision.md)  
+[Dual Path Networks](./2017/july/dual_path_networks.md)  
 [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](./2018/february/segmentation_atrous_separable_conv.md)  
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
