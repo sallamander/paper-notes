@@ -75,6 +75,7 @@
 [Densely Connected Convolutional Networks](./2016/august/densenet.md)  
 [Multi-level Contextual 3D CNNs for False Positive Reduction in Pulmonary Nodule Detection](./2016/september/multi_context_cnns.md)  
 [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](./2017/march/mean_teacher.md)  
+[Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](./2017/april/vat_regularization.md)  
 [Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks](./2017/june/dcnn_nodule_detection.md)  
 [Dual Path Networks](./2017/july/dual_path_networks.md)  
 [Squeeze-and-Excitation Networks](./2017/september/squeeze_and_excitation_nets.md)  
@@ -313,6 +314,7 @@
 
 ## Semi-Supervised Learning
 [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](./2017/march/mean_teacher.md)  
+[Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](./2017/april/vat_regularization.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
 
 ## Soft Attention
