@@ -150,6 +150,7 @@
 [FCOS: Fully Convolutional One-Stage Object Detection](./2019/april/fcos.md)  
 [CenterNet: Keypoint Triplets for Object Detection](./2019/april/center_net.md)  
 [Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
+[CBNet: A Novel Composite Backbone Network Architecture for Object Detection](./2019/september/cbnet.md)  
 
 ## Scene Classification
 [Dual Path Networks](./2017/july/dual_path_networks.md)  
@@ -186,6 +187,7 @@
 [Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 [Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
+[CBNet: A Novel Composite Backbone Network Architecture for Object Detection](./2019/september/cbnet.md)  
 
 ## Image Captioning
 [On the Automatic Generation of Medical Imaging Reports](./2017/november/medical_report_generation.md)  
