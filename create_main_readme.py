@@ -30,6 +30,7 @@ TASK_OPTIONS = [
     'image_captioning',
     'image_denoising',
     'image_generation',
+    'image_reconstruction',
     'image_registration',
     'image_super_resolution',
     'language_modeling',
@@ -37,7 +38,8 @@ TASK_OPTIONS = [
     'pose_estimation',
     'speech_recognition',
     'cardiac_motion_scoring',
-    'video_classification'
+    'video_classification',
+    '3D_object_classification'
 ]
 TOPIC_OPTIONS = [
     'adversarial_attacks',

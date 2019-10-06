@@ -15,6 +15,7 @@
   - [Image Captioning](#image-captioning)
   - [Image Denoising](#image-denoising)
   - [Image Generation](#image-generation)
+  - [Image Reconstruction](#image-reconstruction)
   - [Image Registration](#image-registration)
   - [Image Super Resolution](#image-super-resolution)
   - [Language Modeling](#language-modeling)
@@ -23,6 +24,7 @@
   - [Speech Recognition](#speech-recognition)
   - [Cardiac Motion Scoring](#cardiac-motion-scoring)
   - [Video Classification](#video-classification)
+  - [3D Object Classification](#3d-object-classification)
 - [Papers Organized By Domain](#papers-organized-by-domain)
   - [Environmental](#environmental)
   - [Medical](#medical)
@@ -88,6 +90,7 @@
 [DeepLung: Deep 3D Dual Path Nets for Automated Pulmonary Nodule Detection and Classification](./2018/january/deep_lung.md)  
 [Group Normalization](./2018/march/group_normalization.md)  
 [3D G-CNNs for Pulmonary Nodule Detection](./2018/april/gcnn_nodule_classification.md)  
+[Bag of Tricks for Image Classification with Convolutional Neural Networks](./2018/december/bag_o_tricks.md)  
 [Training Deep Capsule Networks](./2018/december/deep_capsule_nets.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
 
@@ -144,6 +147,7 @@
 [Towards Single-phase Single-stage Detection of Pulmonary Nodules in Chest CT Imaging](./2018/july/sssd_nodule_detection.md)  
 [CornerNet: Detecting Objects as Paired Keypoints](./2018/august/corner_net.md)  
 [Rethinking ImageNet Pre-training](./2018/november/rethinking_pretraining.md)  
+[Bag of Tricks for Image Classification with Convolutional Neural Networks](./2018/december/bag_o_tricks.md)  
 [Scale-Aware Trident Networks for Object Detection](./2019/january/trident_net.md)  
 [Region Proposal by Guided Anchoring](./2019/january/guided_anchoring.md)  
 [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](./2019/january/fish_net.md)  
@@ -173,6 +177,7 @@
 [Attention U-Net: Learning Where to Look for the Pancreas](./2018/april/attention_unet.md)  
 [Learning To Segment Medical Images with Scribble-Supervision Alone](./2018/july/scribble_supervision.md)  
 [Universal Semi-Supervised Semantic Segmentation](./2018/november/semi_supervised_semantic_segmentation.md)  
+[Bag of Tricks for Image Classification with Convolutional Neural Networks](./2018/december/bag_o_tricks.md)  
 [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](./2019/march/fast_fcn.md)  
 [Deep High-Resolution Representation Learning for Visual Recognition](./2019/august/high_res_representation_learning.md)  
 
@@ -198,6 +203,9 @@
 ## Image Generation
 [Generative Adversarial Networks](./2014/june/gan.md)  
 [Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling](./2018/december/high_fidelity_images.md)  
+
+## Image Reconstruction
+[DublinCity: Annotated LiDAR Point Cloud and its Applications](./2019/september/dublin_city.md)  
 
 ## Image Registration
 [Label-driven weakly-supervised learning for multimodal deformable image registration](./2017/november/medical_image_registration.md)  
@@ -227,6 +235,9 @@
 ## Video Classification
 [Non-local Neural Networks](./2017/november/non_local_nns.md)  
 [Group Normalization](./2018/march/group_normalization.md)  
+
+## 3D Object Classification
+[DublinCity: Annotated LiDAR Point Cloud and its Applications](./2019/september/dublin_city.md)  
 
 
 
